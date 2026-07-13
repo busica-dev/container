@@ -8139,11 +8139,143 @@
       },
       "cardType": "oneside",
       "omoteura_flg": 0
+    },
+    {
+      "id": "St-T-K-P-03",
+      "name": "片面 - 個人名刺縦向き",
+      "category": [
+        "縦向き"
+      ],
+      "designStyle": [
+        "自営業名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-P-03_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-P-03_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
+    },
+    {
+      "id": "St-T-K-S-01",
+      "name": "片面 - 趣味活動名刺縦向き",
+      "category": [
+        "縦向き"
+      ],
+      "designStyle": [
+        "趣味活動名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-S-01_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-S-01_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
+    },
+    {
+      "id": "St-T-K-S-02",
+      "name": "片面 - 趣味活動名刺縦向き",
+      "category": [
+        "縦向き"
+      ],
+      "designStyle": [
+        "趣味活動名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-S-02_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-T-K-S-02_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
+    },
+    {
+      "id": "St-Y-K-P-01",
+      "name": "片面 - 個人名刺横向き",
+      "category": [
+        "横向き"
+      ],
+      "designStyle": [
+        "自営業名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-P-01_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-P-01_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
+    },
+    {
+      "id": "St-Y-K-S-01",
+      "name": "片面 - 趣味活動名刺横向き",
+      "category": [
+        "横向き"
+      ],
+      "designStyle": [
+        "趣味活動名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-S-01_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-S-01_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
+    },
+    {
+      "id": "St-Y-K-S-02",
+      "name": "片面 - 趣味活動名刺横向き",
+      "category": [
+        "横向き"
+      ],
+      "designStyle": [
+        "趣味活動名刺"
+      ],
+      "popularity": 89,
+      "createdDate": "2026-07-13T00:00:00Z",
+      "imageUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-S-02_original.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/busica-dev/container/main/meishiou/template_images/St/St-Y-K-S-02_thumbnail.jpg",
+      "isFavorite": false,
+      "previewColors": {
+        "background": "#F8F8F8",
+        "text": "#333333",
+        "accent": "#4A86E8"
+      },
+      "cardType": "oneside",
+      "omoteura_flg": 0
     }
   ],
   "metadata": {
     "version": "1.0",
-    "lastUpdated": "2026-07-07T00:00:00Z",
-    "totalCount": 370
+    "lastUpdated": "2026-07-13T00:00:00Z",
+    "totalCount": 376
   }
 }
